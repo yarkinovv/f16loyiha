@@ -4,7 +4,11 @@
 }
 h1{
   color: red;
+  margin-bottom: 50px;
 }
+
+/* Fuze's Navbar start*/
+
 
 .Nav_fuze{
   height: 70px;
@@ -36,3 +40,4 @@ h1{
   background: #000;
   color: yellow;
 }
+  /* Fuze's Navbar end */
